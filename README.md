@@ -30,7 +30,21 @@ information leaks.
 ![image](https://github.com/user-attachments/assets/703dd8ee-1cee-4a2d-90e7-f6378f26946a)
 
 
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/ed1e8374-1b43-4e7a-82cd-04325c42a400)
+
+
+
+
+
+
+
 
 
 ![image](https://github.com/user-attachments/assets/44fdfc48-48ca-4767-8b4f-8a4ef433db27)
@@ -43,14 +57,7 @@ information leaks.
 
 
 
-****SOFTWARE REQUIREMENTS****
+****MODULES****
 
-
-
-This includes database management systems (DBMS) or big data platforms like Hadoop or Spark, which offer scalable 
-storage and processing capabilities. Additionally, specialized software for data integrity 
-monitoring and analysis is essential, encompassing features such as real-time data 
-monitoring, anomaly detection, and pattern recognition algorithms. Advanced encryption 
-and cryptographic software ensure data security during transmission and storage, 
-safeguarding against unauthorized access or tampering.
-
+Register: using this module we will enter username, message and plam vein image as input and then apply above 9 points to generate PSEUDONYM  and then this values will be upload to DRIVEHQ cloud
+Recognition: using this modules we will input user name and palm vein image and then application will generate PSEUDONYM  and this PSEUDONYM  will be compare with DRIVE HQ PSEUDONYM and if both PSEDONYM matched then user authenticated and then only user message will be displayed otherwise authentication will be failed and privacy to be user message will be provided![image](https://github.com/user-attachments/assets/1194d3b5-a699-4404-bda9-ad0d1a342279)
