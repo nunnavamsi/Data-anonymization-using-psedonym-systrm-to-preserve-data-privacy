@@ -3,7 +3,6 @@
 ****OVERVIEW****
 
 
-
 Each business or organization collects large data regularly. In this connection, cloud computing and wirelessnetwork 
 infrastructure are often used. The use of such services requires less time to achieve the desired production, and users 
 will also find it easier to manage jobs. 
