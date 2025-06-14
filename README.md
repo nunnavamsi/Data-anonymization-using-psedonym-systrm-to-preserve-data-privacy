@@ -37,41 +37,7 @@ information leaks.
 
 
 
-![image](https://github.com/user-attachments/assets/ed1e8374-1b43-4e7a-82cd-04325c42a400)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/3f69e9b4-04a7-4abc-891e-f0eacda6b31a)
 
 
 
