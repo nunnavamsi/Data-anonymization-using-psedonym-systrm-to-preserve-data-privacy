@@ -27,6 +27,12 @@ information leaks.
 
 ****COMPONENT DESGIN STRUCTURE****
 
+![image](https://github.com/user-attachments/assets/703dd8ee-1cee-4a2d-90e7-f6378f26946a)
+
+
+![image](https://github.com/user-attachments/assets/ed1e8374-1b43-4e7a-82cd-04325c42a400)
+
+
 ![image](https://github.com/user-attachments/assets/44fdfc48-48ca-4767-8b4f-8a4ef433db27)
 
 
